@@ -1,7 +1,8 @@
-这是一个自我介绍！
+This is a self-introduction!
 
-湖北武汉，华农研一在读
-最近在自学机器学习入门知识
-想要了解如何将机器学习运用到分子生物和作物育种中
+Hubei Wuhan HZAU
+Recently I have been learning the introduction of machine learning by myself
+Want to learn how machine learning can be applied to molecular biology and crop breeding
 
-在生物信息学方面完全是个小白，欢迎给予学习上的指点和建议！
+Know nothing in the field of bioinformatics (English is also poor)
+Welcome to give me advices on learning!
